@@ -65,10 +65,7 @@
 			{
 				"buffer_size": 283,
 				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-			]
+			}
 		},
 		{
 			"file": "init_sdl2.nim",
@@ -172,7 +169,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -417,7 +414,7 @@
 		[
 			[
 				"",
-				"~/Documents/Code/Nim/NimLab/nimlab.sublime-project"
+				"~/Documents/Code/Nim/ChatApp/chatapp.sublime-project"
 			]
 		],
 		"width": 380.0
