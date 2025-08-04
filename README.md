@@ -4,8 +4,6 @@
   <a href="https://github.com/Ollicron/Nim-Game">
     <img src="Assets/Screenshot.png" alt="Logo">
   </a>
-
-  <h3 align="center">Nim Game</h3>
 </div>
 
 # Nim Game
